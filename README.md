@@ -174,8 +174,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed by:Preethi.A.A
-Reference number:212222110035
+Developed by:Deepika.S
+Reference number:212222230028
 
 #include "main.h"
 #include"lcd.h"
